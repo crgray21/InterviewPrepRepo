@@ -43,7 +43,9 @@ Personal collection of interview preparation resources including EPI, CTCI, Leet
 * OSI Model
 
 ## System Design
-* Links to company engineering blogs
+
+* Github Repo with links to company engineering blogs:
+  * https://github.com/kilimchoi/engineering-blogs#d-technologies
 * Designing Data Intensive Applications (book by Martin Fowler)
 * Load Balancing
 * Service Discovery (etcd)
